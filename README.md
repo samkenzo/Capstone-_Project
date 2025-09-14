@@ -65,27 +65,17 @@ predict_landing(payload=5000, grid_fins=True, legs=True, block=5)
 
 ## 🔬 ML Algorithms Tested
 
-- ✅ **Logistic Regression** (Winner!)
-- 🌲 **Random Forest**  
-- 🚀 **Gradient Boosting**
-- 🎯 **Support Vector Machine**
-- 👥 **K-Nearest Neighbors**
-- 🌳 **Decision Tree**
+-  **Logistic Regression** 
+-  **Random Forest**  
+-  **Gradient Boosting**
+-  **Support Vector Machine**
+-  **K-Nearest Neighbors**
+-  **Decision Tree**
 
-## 📁 Project Structure
-
-```
-spacex-predictor/
-├── 📊 dataset_part_2.csv    # Launch data
-├── 📓 SpaceX_Analysis.ipynb # Main notebook
-├── 🤖 spacex_model.pkl     # Trained model
-├── 📈 confusion_matrix.png # Results viz
-└── 🚀 predict.py          # Prediction script
-```
 
 ## 👨‍🚀 Author
 
-Built by **Swaraj Khair** - *IIT Student passionate about space tech & ML*
+Built by **Swaraj Khair** - 
 
 [![GitHub](https://img.shields.io/badge/GitHub-samkenzo-black?style=flat&logo=github)](https://github.com/samkenzo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
