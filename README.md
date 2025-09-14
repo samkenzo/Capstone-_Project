@@ -1,4 +1,4 @@
-# 🚀 SpaceX Falcon 9 Landing Predictor
+#  SpaceX Falcon 9 Landing Predictor
 
 > **Will it stick the landing?** Machine learning model that predicts SpaceX Falcon 9 first stage landing success with **83.3% accuracy**.
 
@@ -18,22 +18,20 @@ Predicts whether SpaceX rockets will successfully land using **90 historical lau
 
 | Feature | Impact | Why It Matters |
 |---------|---------|----------------|
-| 🕸️ **GridFins + Legs** | Critical | Both needed for controlled landing |
-| 🚀 **Block 5** | +40% success | Latest tech = better landings |
-| 📦 **Heavy Payload** | -20% success | Physics: harder to slow down |
+|  **GridFins + Legs** | Critical | Both needed for controlled landing |
+|  **Block 5** | +40% success | Latest tech = better landings |
+|  **Heavy Payload** | -20% success | Physics: harder to slow down |
 
-## 🏆 Model Performance
+##  Model Performance
 
 ```
-🥇 Logistic Regression: 83.3% ✨
-🥈 SVM: 80.0%
-🥉 Random Forest: 77.8%
-📊 Gradient Boosting: 72.2%
-🤖 KNN: 75.0%
-🌳 Decision Tree: 78.0%
+ Logistic Regression: 83.3% 
+ SVM: 80.0%
+ KNN: 75.0%
+ Decision Tree: 78.0%
 ```
 
-## 🚀 Try It Yourself
+##  Try It Yourself
 
 ```python
 # Clone and predict
@@ -46,11 +44,11 @@ predict_landing(payload=5000, grid_fins=True, legs=True, block=5)
 # → "SUCCESS (87% confidence)"
 ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Python** • **Scikit-learn** • **Pandas** • **Jupyter** • **Seaborn** • **Matplotlib**
 
-## 📈 Features Used
+##  Features Used
 
 - **PayloadMass**: Rocket cargo weight
 - **GridFins**: Steering fins for landing
@@ -59,11 +57,11 @@ predict_landing(payload=5000, grid_fins=True, legs=True, block=5)
 - **Flights**: Booster experience
 - **ReusedCount**: Previous flights
 
-## 📊 Key Insight
+##  Key Insight
 
 > **Block 5 + GridFins + Legs = 95% landing success rate** 🎯
 
-## 🔬 ML Algorithms Tested
+##  ML Algorithms Tested
 
 -  **Logistic Regression** 
 -  **Random Forest**  
@@ -73,12 +71,12 @@ predict_landing(payload=5000, grid_fins=True, legs=True, block=5)
 -  **Decision Tree**
 
 
-## 👨‍🚀 Author
+##  Author
 
 Built by **Swaraj Khair** - 
 
 ---
 
-⭐ **Star this repo if you love rockets!** ⭐
+ **Star this repo if you love rockets!** 
 
 *"Failure is an option here. If things are not failing, you are not innovating enough." - Elon Musk*
