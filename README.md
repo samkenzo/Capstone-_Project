@@ -77,9 +77,6 @@ predict_landing(payload=5000, grid_fins=True, legs=True, block=5)
 
 Built by **Swaraj Khair** - 
 
-[![GitHub](https://img.shields.io/badge/GitHub-samkenzo-black?style=flat&logo=github)](https://github.com/samkenzo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-
 ---
 
 ⭐ **Star this repo if you love rockets!** ⭐
